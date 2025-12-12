@@ -1,0 +1,141 @@
+cow.png
+	size: 4096, 348
+	filter: Linear, Linear
+	scale: 0.5
+VFX/dizzy_birds_and_stars/bird_a/body
+	bounds: 4036, 220, 28, 22
+	offsets: 0, 0, 29, 22
+VFX/dizzy_birds_and_stars/bird_a/wing
+	bounds: 4070, 231, 18, 13
+VFX/dizzy_birds_and_stars/bird_b/body
+	bounds: 3941, 215, 29, 21
+VFX/dizzy_birds_and_stars/bird_b/wing
+	bounds: 4068, 250, 18, 14
+VFX/dizzy_birds_and_stars/line_a
+	bounds: 3915, 260, 80, 23
+	rotate: 90
+VFX/dizzy_birds_and_stars/line_b
+	bounds: 3780, 254, 86, 35
+	rotate: 90
+VFX/dizzy_birds_and_stars/start_a
+	bounds: 4068, 270, 21, 21
+VFX/hit fx/hit_effect_1
+	bounds: 3202, 232, 90, 108
+	offsets: 1, 1, 91, 109
+VFX/hit fx/hit_effect_2
+	bounds: 2988, 220, 117, 120
+	offsets: 0, 0, 117, 121
+VFX/hit spark
+	bounds: 2886, 112, 96, 228
+	offsets: 0, 0, 97, 228
+cow/Cow/Cow_Body
+	bounds: 3111, 188, 152, 85
+	rotate: 90
+cow/Cow/Cow_Body_Poopy
+	bounds: 3532, 257, 83, 62
+	rotate: 90
+cow/Cow/Cow_Cheek_Chew1
+	bounds: 3678, 209, 20, 21
+cow/Cow/Cow_Cheek_Chew2
+	bounds: 3574, 210, 24, 23
+cow/Cow/Cow_Cheek_Chew3
+	bounds: 3604, 210, 22, 23
+cow/Cow/Cow_Collar_Bell
+	bounds: 3646, 225, 26, 37
+cow/Cow/Cow_Ear_L
+	bounds: 3678, 236, 36, 26
+cow/Cow/Cow_Ear_R
+	bounds: 3901, 226, 34, 21
+cow/Cow/Cow_Eyes_Closed
+	bounds: 3993, 220, 37, 22
+cow/Cow/Cow_Eyes_Open
+	bounds: 3856, 225, 39, 22
+cow/Cow/Cow_Eyes_Squint
+	bounds: 3944, 242, 43, 23
+cow/Cow/Cow_Eyes_Wince
+	bounds: 3768, 228, 44, 20
+cow/Cow/Cow_Head
+	bounds: 3600, 271, 67, 69
+	offsets: 0, 8, 67, 77
+cow/Cow/Cow_Leg_BackL
+	bounds: 4003, 250, 27, 43
+cow/Cow/Cow_Leg_BackR
+	bounds: 4003, 250, 27, 43
+cow/Cow/Cow_Leg_LowerL
+	bounds: 4036, 248, 27, 43
+cow/Cow/Cow_Leg_LowerR
+	bounds: 4038, 297, 27, 43
+cow/Cow/Cow_Leg_UpperL
+	bounds: 3821, 293, 47, 47
+cow/Cow/Cow_Leg_UpperR
+	bounds: 3821, 249, 29, 38
+cow/Cow/Cow_Mouth_Bottom
+	bounds: 3532, 226, 36, 25
+cow/Cow/Cow_Mouth_Top
+	bounds: 4003, 299, 41, 29
+	rotate: 90
+cow/Cow/Cow_Stomach_Rumble1
+	bounds: 3600, 239, 40, 26
+cow/Cow/Cow_Stomach_Rumble2
+	bounds: 3856, 253, 42, 26
+cow/Cow/Cow_Stomach_Rumble3
+	bounds: 3944, 296, 44, 29
+	offsets: 0, 0, 45, 29
+	rotate: 90
+cow/Cow/Cow_Tail
+	bounds: 3732, 258, 42, 82
+cow/Cow/Cow_Udders_Normal
+	bounds: 3874, 285, 55, 35
+	rotate: 90
+cow/Cow/Diarrhea_Stream/Poop_Particle1
+	bounds: 3818, 222, 21, 31
+	rotate: 90
+cow/Cow/Diarrhea_Stream/Poop_Particle2
+	bounds: 4071, 319, 18, 21
+cow/Cow/Diarrhea_Stream/Poop_Particle3
+	bounds: 3243, 211, 12, 15
+cow/Cow/Diarrhea_Stream/Poop_Particle4
+	bounds: 3944, 274, 16, 28
+	rotate: 90
+cow/Cow/Diarrhea_Stream/Poop_Stream1
+	bounds: 3378, 221, 119, 73
+	rotate: 90
+cow/Cow/Diarrhea_Stream/Poop_Stream2
+	bounds: 3457, 221, 119, 69
+	offsets: 2, 0, 121, 69
+	rotate: 90
+cow/Cow/Diarrhea_Stream/Poop_Stream3
+	bounds: 3298, 221, 119, 74
+	rotate: 90
+cow/Cow/Grass_Patch
+	bounds: 3673, 268, 53, 72
+cow/Cow/Grass_Piece1
+	bounds: 3720, 230, 42, 22
+cow/Cow/Grass_Piece2
+	bounds: 3202, 215, 35, 11
+	offsets: 1, 0, 36, 11
+cow/Poosplosion/Poosplosion_Frame1
+	bounds: 1555, 40, 477, 300
+cow/Poosplosion/Poosplosion_Frame2
+	bounds: 1042, 26, 507, 314
+cow/Poosplosion/Poosplosion_Frame3
+	bounds: 6, 6, 517, 334
+cow/Poosplosion/Poosplosion_Frame4
+	bounds: 529, 18, 507, 322
+cow/fly_insect
+	bounds: 4071, 299, 18, 14
+cow/white poof/Poof_1
+	bounds: 2716, 146, 194, 164
+	rotate: 90
+cow/white poof/Poof_2
+	bounds: 2515, 103, 237, 195
+	rotate: 90
+cow/white poof/Poof_3
+	bounds: 2038, 40, 300, 236
+	rotate: 90
+cow/white poof/Poof_4
+	bounds: 2280, 58, 282, 229
+	rotate: 90
+crewmate/shadow
+	bounds: 3979, 271, 69, 18
+	rotate: 90

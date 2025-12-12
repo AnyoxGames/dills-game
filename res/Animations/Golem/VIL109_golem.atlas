@@ -1,0 +1,205 @@
+bdfd827822627350.png
+	size: 2048, 2048
+	filter: Linear, Linear
+Layer 236
+	bounds: 918, 1958, 256, 88
+	offsets: 1, 1, 258, 90
+arm L
+	bounds: 1076, 1851, 105, 322
+	offsets: 1, 0, 107, 322
+	rotate: 90
+arm R
+	bounds: 2, 1914, 101, 290
+	offsets: 1, 1, 103, 291
+	rotate: 90
+arm raised L
+	bounds: 1400, 1848, 105, 322
+	offsets: 1, 0, 107, 322
+	rotate: 90
+arm raised R
+	bounds: 492, 1876, 101, 290
+	offsets: 1, 1, 103, 291
+	rotate: 90
+body
+	bounds: 2, 1577, 217, 220
+	offsets: 1, 1, 219, 237
+debris/particle_01
+	bounds: 557, 2010, 36, 46
+	offsets: 1, 1, 38, 47
+	rotate: 90
+debris/particle_02
+	bounds: 194, 2019, 27, 34
+	offsets: 1, 1, 29, 36
+	rotate: 90
+debris/particle_03
+	bounds: 230, 2019, 27, 34
+	offsets: 1, 1, 29, 36
+	rotate: 90
+debris/particle_04
+	bounds: 167, 2021, 25, 25
+	offsets: 1, 1, 27, 27
+debris/particle_05
+	bounds: 522, 2014, 33, 32
+	offsets: 1, 1, 35, 34
+debris/particle_06
+	bounds: 344, 2015, 31, 31
+	offsets: 1, 1, 33, 33
+debris/particle_07
+	bounds: 266, 2017, 29, 37
+	offsets: 1, 1, 31, 38
+	rotate: 90
+debris/particle_08
+	bounds: 18, 2026, 20, 25
+	offsets: 1, 1, 22, 27
+	rotate: 90
+debris/particle_09
+	bounds: 377, 2015, 31, 39
+	offsets: 1, 1, 33, 40
+	rotate: 90
+debris/particle_10
+	bounds: 305, 2017, 29, 37
+	offsets: 1, 1, 31, 38
+	rotate: 90
+debris/particle_11
+	bounds: 418, 2015, 31, 39
+	offsets: 1, 1, 33, 40
+	rotate: 90
+debris/particle_12
+	bounds: 605, 2002, 45, 44
+	offsets: 1, 1, 47, 46
+head
+	bounds: 221, 1782, 124, 141
+	offsets: 1, 1, 126, 176
+	rotate: 90
+leg L
+	bounds: 1498, 1955, 91, 165
+	offsets: 1, 1, 93, 166
+	rotate: 90
+leg R
+	bounds: 1176, 1958, 88, 159
+	offsets: 1, 1, 90, 161
+	rotate: 90
+poof/Poof_0001
+	bounds: 221, 1557, 206, 236
+	offsets: 1, 2, 208, 238
+	rotate: 90
+poof/Poof_0002
+	bounds: 459, 1495, 214, 236
+	offsets: 1, 2, 216, 238
+	rotate: 90
+poof/Poof_0003
+	bounds: 919, 1440, 220, 253
+	offsets: 1, 1, 222, 256
+	rotate: 90
+poof/Poof_0004
+	bounds: 1174, 1437, 220, 297
+	offsets: 1, 1, 222, 299
+	rotate: 90
+poof/Poof_0005
+	bounds: 1473, 1433, 223, 331
+	offsets: 2, 1, 226, 333
+	rotate: 90
+poof/Poof_0006
+	bounds: 2, 1316, 239, 348
+	offsets: 1, 1, 241, 350
+	rotate: 90
+poof/Poof_0007
+	bounds: 613, 1195, 243, 350
+	offsets: 1, 1, 246, 351
+	rotate: 90
+poof/Poof_0008
+	bounds: 352, 1242, 251, 259
+	offsets: 1, 1, 254, 261
+	rotate: 90
+poof/Poof_0009
+	bounds: 735, 1668, 185, 262
+	offsets: 1, 1, 187, 264
+	rotate: 90
+poof/Poof_0010
+	bounds: 999, 1662, 187, 227
+	offsets: 1, 1, 189, 229
+	rotate: 90
+poof/Poof_0011
+	bounds: 1228, 1659, 187, 254
+	offsets: 1, 1, 189, 256
+	rotate: 90
+poof/Poof_0012
+	bounds: 1484, 1658, 188, 234
+	offsets: 1, 1, 190, 236
+	rotate: 90
+poof/Poof_0013
+	bounds: 1720, 1658, 188, 244
+	offsets: 1, 1, 190, 245
+	rotate: 90
+poof/Poof_0014
+	bounds: 490, 1711, 163, 243
+	offsets: 1, 1, 165, 245
+	rotate: 90
+poof/Poof_0015
+	bounds: 294, 1908, 105, 196
+	offsets: 1, 1, 107, 198
+	rotate: 90
+poof/Poof_0016
+	bounds: 2, 1799, 113, 217
+	offsets: 1, 1, 115, 219
+	rotate: 90
+poof/Poof_0017
+	bounds: 1665, 1955, 91, 111
+	offsets: 1, 1, 93, 113
+	rotate: 90
+poof/Poof_0018
+	bounds: 750, 1979, 73, 67
+	offsets: 1, 1, 75, 69
+poof/Poof_0019
+	bounds: 825, 1966, 80, 91
+	offsets: 1, 1, 82, 92
+	rotate: 90
+poof/Poof_0020
+	bounds: 825, 1966, 80, 91
+	offsets: 1, 1, 82, 92
+	rotate: 90
+poof/Poof_0021
+	bounds: 825, 1966, 80, 91
+	offsets: 1, 1, 82, 92
+	rotate: 90
+poof/Poof_0022
+	bounds: 652, 1980, 96, 66
+	offsets: 1, 1, 98, 68
+poof/Poof_0023
+	bounds: 459, 2015, 61, 31
+	offsets: 1, 1, 63, 33
+poof/Poof_0024
+	bounds: 459, 2015, 61, 31
+	offsets: 1, 1, 63, 33
+poof/Poof_0025
+	bounds: 2, 2032, 14, 14
+	offsets: 1, 1, 16, 16
+red eyes
+	bounds: 45, 2025, 59, 21
+	offsets: 1, 1, 61, 23
+white/arm L
+	bounds: 1724, 1848, 105, 322
+	offsets: 1, 0, 107, 322
+	rotate: 90
+white/arm R
+	bounds: 784, 1855, 101, 290
+	offsets: 1, 1, 103, 291
+	rotate: 90
+white/body
+	bounds: 697, 1449, 217, 220
+	offsets: 1, 1, 219, 237
+	rotate: 90
+white/head
+	bounds: 364, 1765, 124, 141
+	offsets: 1, 1, 126, 176
+white/leg L
+	bounds: 1778, 1955, 91, 165
+	offsets: 1, 1, 93, 166
+	rotate: 90
+white/leg R
+	bounds: 1337, 1958, 88, 159
+	offsets: 1, 1, 90, 161
+	rotate: 90
+white/red eyes
+	bounds: 106, 2025, 59, 21
+	offsets: 1, 1, 61, 23

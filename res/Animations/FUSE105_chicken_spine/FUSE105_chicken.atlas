@@ -1,0 +1,48 @@
+6bba121e18e35f44.png
+	size: 180, 180
+	filter: Linear, Linear
+chicken/beak
+	bounds: 61, 113, 19, 18
+	offsets: 1, 1, 21, 20
+	rotate: 90
+chicken/beak_open
+	bounds: 61, 134, 19, 22
+	offsets: 1, 1, 21, 24
+chicken/body
+	bounds: 84, 103, 75, 57
+	offsets: 1, 1, 77, 59
+	rotate: 90
+chicken/head
+	bounds: 2, 82, 57, 74
+	offsets: 1, 1, 59, 75
+chicken/leg_l
+	bounds: 140, 11, 39, 36
+	rotate: 90
+chicken/leg_r
+	bounds: 44, 14, 39, 46
+	rotate: 90
+chicken/shadow
+	bounds: 2, 158, 80, 20
+	offsets: 1, 1, 82, 22
+chicken/tail
+	bounds: 61, 55, 62, 46
+	offsets: 1, 1, 64, 48
+chicken/wattles
+	bounds: 143, 115, 17, 20
+	offsets: 1, 1, 19, 22
+	rotate: 90
+chicken/wing_l
+	bounds: 143, 134, 44, 35
+	offsets: 1, 1, 46, 37
+	rotate: 90
+chicken/wing_open_l
+	bounds: 125, 52, 49, 39
+	offsets: 1, 1, 51, 41
+	rotate: 90
+chicken/wing_open_r
+	bounds: 2, 33, 47, 40
+	offsets: 1, 1, 49, 42
+	rotate: 90
+chicken/wing_r
+	bounds: 92, 14, 46, 36
+	offsets: 1, 1, 48, 38

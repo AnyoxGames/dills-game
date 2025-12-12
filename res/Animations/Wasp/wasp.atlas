@@ -1,0 +1,69 @@
+wasp.png
+	size: 500, 500
+	filter: Linear, Linear
+honey_poop/honey_glob
+	bounds: 6, 243, 277, 250
+	offsets: 1, 1, 279, 252
+level6/abdomen
+	bounds: 289, 221, 152, 132
+	offsets: 1, 2, 154, 135
+level6/antennae_L
+	bounds: 6, 10, 68, 78
+	offsets: 1, 1, 70, 81
+level6/antennae_R
+	bounds: 214, 47, 86, 51
+	offsets: 1, 1, 88, 54
+	rotate: 90
+level6/body
+	bounds: 402, 41, 86, 89
+	offsets: 1, 1, 88, 91
+	rotate: 90
+level6/head
+	bounds: 277, 105, 119, 110
+	offsets: 1, 1, 121, 112
+level6/leg_B2_L
+	bounds: 441, 139, 47, 58
+	offsets: 1, 1, 49, 60
+level6/leg_B_L
+	bounds: 402, 133, 33, 82
+	offsets: 1, 1, 35, 84
+level6/leg_F_L
+	bounds: 318, 10, 25, 49
+	offsets: 1, 1, 27, 51
+	rotate: 90
+level6/leg_F_R
+	bounds: 214, 11, 30, 49
+	offsets: 1, 1, 32, 51
+	rotate: 90
+level6/mandible_L
+	bounds: 318, 52, 45, 47
+	offsets: 1, 1, 47, 48
+level6/mandible_R
+	bounds: 269, 9, 32, 43
+	offsets: 1, 1, 34, 45
+	rotate: 90
+level6/shadow
+	bounds: 447, 203, 133, 36
+	offsets: 1, 1, 135, 38
+	rotate: 90
+level6/wing_L
+	bounds: 126, 139, 145, 98
+	offsets: 1, 1, 147, 100
+level6/wing_R
+	bounds: 126, 10, 82, 123
+	offsets: 1, 1, 84, 125
+stung/stinger
+	bounds: 289, 359, 162, 134
+	offsets: 1, 1, 164, 136
+stung/stinger_clean
+	bounds: 6, 94, 143, 114
+	offsets: 1, 1, 145, 116
+	rotate: 90
+stung/stunned_ring
+	bounds: 457, 342, 151, 36
+	offsets: 1, 1, 153, 38
+	rotate: 90
+stung/stunned_star
+	bounds: 80, 47, 41, 38
+	offsets: 1, 1, 43, 40
+	rotate: 90

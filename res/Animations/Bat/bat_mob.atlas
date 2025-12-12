@@ -1,0 +1,66 @@
+865b41ecd4cd294c.png
+	size: 528, 528
+	filter: Linear, Linear
+Close_eyes
+	bounds: 148, 291, 131, 26
+	rotate: 90
+Ear_01
+	bounds: 356, 108, 70, 124
+	rotate: 90
+Ear_02
+	bounds: 397, 32, 70, 124
+	rotate: 90
+Eyebrow_01
+	bounds: 180, 379, 43, 28
+	offsets: 1, 1, 45, 30
+	rotate: 90
+Eyebrow_02
+	bounds: 105, 21, 43, 28
+	offsets: 1, 1, 45, 30
+	rotate: 90
+Eyes
+	bounds: 139, 31, 122, 23
+	offsets: 1, 1, 124, 25
+Mouth_01
+	bounds: 300, 46, 91, 33
+	offsets: 1, 1, 93, 35
+Mouth_02
+	bounds: 410, 336, 96, 52
+	offsets: 1, 1, 98, 54
+Mouth_02 copy
+	bounds: 105, 70, 90, 52
+	offsets: 1, 1, 92, 54
+	rotate: 90
+Mouth_03
+	bounds: 300, 85, 100, 50
+	offsets: 1, 1, 102, 52
+	rotate: 90
+Nose
+	bounds: 105, 166, 66, 57
+	offsets: 1, 1, 68, 59
+	rotate: 90
+Wing_down_01
+	bounds: 6, 428, 215, 93
+Wing_down_02
+	bounds: 6, 17, 215, 93
+	rotate: 90
+Wing_open_02
+	bounds: 6, 238, 184, 136
+	rotate: 90
+Wing_up_01
+	bounds: 180, 191, 184, 136
+body
+	bounds: 227, 333, 188, 177
+	offsets: 1, 1, 190, 179
+	rotate: 90
+nhac_01
+	bounds: 370, 184, 143, 126
+	offsets: 1, 1, 145, 128
+	rotate: 90
+nhac_02
+	bounds: 168, 60, 125, 126
+	offsets: 1, 1, 142, 128
+	rotate: 90
+nhac_03
+	bounds: 410, 394, 106, 127
+	offsets: 1, 1, 108, 128

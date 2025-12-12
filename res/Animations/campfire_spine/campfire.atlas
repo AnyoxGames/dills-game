@@ -1,0 +1,22 @@
+2f056d29ccfca1dd.png
+	size: 1861, 250
+	filter: Linear, Linear
+UP_SmokeLine
+	bounds: 6, 12, 807, 232
+	offsets: 57, 42, 903, 297
+campfire
+	bounds: 1041, 6, 238, 198
+	offsets: 1, 1, 240, 200
+	rotate: 90
+fire1
+	bounds: 1655, 32, 200, 212
+	offsets: 1, 1, 202, 214
+fire2
+	bounds: 819, 17, 216, 227
+	offsets: 1, 1, 218, 229
+fire3
+	bounds: 1245, 20, 204, 224
+	offsets: 1, 1, 206, 225
+fire4
+	bounds: 1455, 13, 194, 231
+	offsets: 1, 1, 196, 233

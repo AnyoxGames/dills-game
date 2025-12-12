@@ -1,0 +1,54 @@
+{
+"skeleton": { "hash": "qcAIMfSP29k", "spine": "4.0.64", "x": -284, "y": -179.6, "width": 586, "height": 450 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -1, "y": 189 }
+],
+"slots": [
+	{ "name": "Waterfall_01lava", "bone": "bone", "attachment": "Waterfall_01lava" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Waterfall_01lava": {
+				"Waterfall_01lava": { "x": 10, "y": -143.6, "width": 586, "height": 450 },
+				"Waterfall_02lava": { "x": 10, "y": -155.58, "width": 586, "height": 450 },
+				"Waterfall_03lava": { "x": 10, "y": -146, "width": 586, "height": 450 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"Waterfall_01lava": {
+				"attachment": [
+					{ "name": "Waterfall_01lava" },
+					{ "time": 0.1, "name": "Waterfall_02lava" },
+					{ "time": 0.2167, "name": "Waterfall_03lava" },
+					{ "time": 0.3333, "name": "Waterfall_01lava" },
+					{ "time": 0.4333, "name": "Waterfall_02lava" },
+					{ "time": 0.55, "name": "Waterfall_03lava" },
+					{ "time": 0.6667, "name": "Waterfall_01lava" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"scale": [
+					{
+						"curve": [ 0.111, 1, 0.222, 1, 0.111, 1, 0.222, 1.041 ]
+					},
+					{
+						"time": 0.3333,
+						"y": 1.041,
+						"curve": [ 0.444, 1, 0.556, 1, 0.444, 1.041, 0.556, 1 ]
+					},
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	}
+}
+}

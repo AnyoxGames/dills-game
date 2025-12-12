@@ -1,0 +1,646 @@
+General_Projectile_VFX.png
+	size: 4096, 1024
+	filter: Linear, Linear
+	scale: 0.5
+003Battle/shoulder charge/base shield
+	bounds: 427, 116, 129, 158
+	offsets: 5, 2, 136, 162
+	rotate: 90
+003Battle/shoulder charge/gradient01
+	bounds: 1743, 110, 135, 141
+	offsets: 1, 0, 136, 141
+	rotate: 90
+003Battle/shoulder charge/gradient02
+	bounds: 3502, 110, 172, 141
+	offsets: 31, 0, 203, 141
+003Battle/shoulder charge/largeline1
+	bounds: 1743, 254, 66, 16
+	offsets: 1, 1, 68, 18
+003Battle/shoulder charge/largeline2
+	bounds: 995, 155, 51, 18
+	offsets: 1, 1, 53, 20
+003Battle/shoulder charge/largeline3
+	bounds: 1815, 262, 46, 8
+	offsets: 1, 1, 48, 10
+003Battle/shoulder charge/line1
+	bounds: 948, 1011, 24, 5
+	offsets: 1, 0, 25, 5
+003Battle/shoulder charge/line2
+	bounds: 956, 590, 24, 9
+003Battle/shoulder charge/line3
+	bounds: 1765, 594, 19, 5
+003Battle/shoulder charge/line4
+	bounds: 341, 121, 46, 7
+FUNGUS_TRAP/fungus_trap_spores
+	bounds: 1361, 426, 272, 157
+	offsets: 1, 1, 274, 159
+FUNGUS_TRAP/fungus_trap_spores_cloud
+	bounds: 3121, 427, 313, 213
+	offsets: 3, 6, 319, 223
+FireBall/fireball_1
+	bounds: 1404, 36, 82, 83
+	rotate: 90
+FireBall/fireball_2
+	bounds: 718, 42, 83, 82
+Flower Emojis/Sunflower
+	bounds: 3111, 14, 50, 47
+Flower Emojis/chrysanthemum
+	bounds: 2137, 8, 43, 42
+Flower Emojis/daisy
+	bounds: 2742, 11, 39, 36
+Flower Emojis/marigold
+	bounds: 3334, 6, 45, 45
+Flower Emojis/rose
+	bounds: 1544, 9, 41, 38
+Flower Emojis/sakura
+	bounds: 1159, 10, 47, 44
+Green_Spark/green_spark_projectile_1
+	bounds: 846, 81, 122, 66
+	offsets: 12, 8, 140, 83
+Green_Spark/green_spark_projectile_2
+	bounds: 3680, 101, 126, 75
+	offsets: 7, 3, 140, 83
+Heal Glob/Shiny Sparkle (1)
+	bounds: 1344, 982, 35, 34
+	offsets: 0, 1, 35, 35
+vfx_sparkles/dream_sparkle1
+	bounds: 1344, 982, 35, 34
+	offsets: 0, 1, 35, 35
+Heal Glob/flash
+	bounds: 427, 37, 75, 73
+	offsets: 1, 1, 77, 75
+Heal Glob/glow1
+	bounds: 2166, 408, 30, 30
+	offsets: 1, 1, 31, 32
+Heal Glob/glow2
+	bounds: 3718, 6, 37, 36
+	offsets: 0, 1, 38, 38
+Heal Glob/glow3
+	bounds: 736, 130, 104, 99
+	offsets: 2, 1, 107, 101
+Heal Glob/heal_blob
+	bounds: 3581, 44, 63, 60
+Heal Glob/heal_particle
+	bounds: 1979, 7, 47, 49
+	offsets: 2, 2, 51, 53
+	rotate: 90
+Heal Glob/heal_puft_1
+	bounds: 3126, 67, 103, 86
+	offsets: 4, 6, 110, 95
+Heal Glob/heal_puft_2
+	bounds: 1238, 42, 78, 68
+	offsets: 4, 3, 85, 74
+Heal Glob/heal_puft_3
+	bounds: 1405, 124, 115, 116
+	offsets: 5, 4, 123, 125
+Heal Glob/heal_shaft
+	bounds: 4068, 730, 16, 93
+	offsets: 1, 0, 17, 99
+Heal Glob/heal_sparkle_1
+	bounds: 2109, 401, 37, 51
+	offsets: 2, 2, 40, 54
+	rotate: 90
+Ice Particles/snow_flake1
+	bounds: 1772, 990, 23, 26
+Ice Particles/snow_flake2
+	bounds: 3836, 251, 28, 32
+Ice Particles/sparkle
+	bounds: 2798, 106, 23, 30
+Lightning_Bolt/_lightning_bolt_A
+	bounds: 995, 90, 143, 58
+	offsets: 2, 2, 147, 62
+Lightning_Bolt/_lightning_bolt_B
+	bounds: 6, 90, 144, 63
+	offsets: 3, 3, 150, 68
+Lightning_Bolt/lightning_ball_1
+	bounds: 3966, 120, 120, 118
+	offsets: 3, 4, 126, 126
+	rotate: 90
+Lightning_Bolt/lightning_ball_2
+	bounds: 544, 263, 118, 121
+	offsets: 4, 3, 126, 127
+Lightning_Bolt/lightning_ball_3
+	bounds: 210, 254, 116, 116
+	offsets: 3, 4, 122, 124
+Lightning_Bolt/lightning_bolt_glow
+	bounds: 2935, 156, 185, 83
+	offsets: 5, 1, 193, 85
+Lightning_Bolt/particle_A
+	bounds: 3121, 727, 62, 54
+	offsets: 4, 3, 69, 60
+	rotate: 90
+Lightning_Bolt/particle_B
+	bounds: 2054, 399, 49, 39
+	offsets: 3, 6, 55, 49
+Lightning_Bolt/particle_C
+	bounds: 3167, 13, 48, 48
+	offsets: 3, 3, 54, 56
+Lightning_Bolt/particle_E
+	bounds: 3277, 11, 51, 40
+	offsets: 3, 7, 60, 50
+Lightning_Bolt/particle_F
+	bounds: 3511, 41, 64, 63
+	offsets: 4, 3, 72, 69
+Lightning_Bolt/particle_G
+	bounds: 2865, 18, 52, 46
+	offsets: 4, 4, 60, 54
+	rotate: 90
+Lightning_Bolt/particle_H
+	bounds: 3235, 112, 68, 41
+	offsets: 4, 3, 76, 47
+Lightning_Bolt/particle_I
+	bounds: 2798, 19, 61, 51
+	offsets: 4, 3, 69, 57
+Lightning_Bolt/particle_J
+	bounds: 2403, 256, 31, 40
+	offsets: 3, 4, 37, 48
+MOD/rasengan/explosion/rasengan_explosion_4
+	bounds: 2203, 639, 364, 377
+	offsets: 1, 1, 366, 378
+MOD/rasengan/explosion/rasengan_explosion_5
+	bounds: 3185, 646, 370, 359
+	offsets: 1, 1, 372, 361
+	rotate: 90
+Portal/blue/portal/frame_particle_A
+	bounds: 3440, 428, 85, 26
+	offsets: 2, 2, 89, 30
+Portal/blue/portal/frame_particle_B
+	bounds: 3836, 289, 23, 57
+	offsets: 2, 2, 27, 60
+Portal/blue/portal/frame_particle_C
+	bounds: 2343, 163, 49, 60
+	offsets: 2, 2, 53, 64
+Portal/blue/portal/frame_particle_D
+	bounds: 1493, 90, 25, 28
+	offsets: 2, 2, 29, 32
+Portal/blue/portal/particle_A
+	bounds: 3836, 352, 29, 46
+	offsets: 1, 2, 32, 49
+Portal/blue/portal/particle_B
+	bounds: 1242, 191, 17, 43
+	offsets: 1, 1, 19, 45
+Portal/blue/portal/portal_frame
+	bounds: 2054, 229, 170, 163
+	offsets: 2, 2, 174, 167
+Portal/blue/portal/portal_interior_A
+	bounds: 2951, 433, 147, 145
+Portal/blue/portal/portal_interior_B
+	bounds: 2403, 115, 127, 126
+Portal/blue/portal/portal_interior_C
+	bounds: 2141, 56, 88, 87
+Shadow_Ball/center_glow
+	bounds: 3428, 17, 59, 59
+	offsets: 5, 5, 69, 69
+Shadow_Ball/cloud1
+	bounds: 1105, 7, 48, 47
+	offsets: 12, 4, 72, 55
+Shadow_Ball/cloud2
+	bounds: 2235, 7, 48, 47
+	offsets: 5, 9, 55, 65
+Shadow_Ball/cloud3
+	bounds: 4056, 80, 33, 34
+	offsets: 1, 2, 36, 37
+Shadow_Ball/cloud4
+	bounds: 886, 19, 61, 56
+	offsets: 1, 1, 63, 58
+Shadow_Ball/cloud5
+	bounds: 3221, 10, 41, 50
+	offsets: 1, 2, 44, 53
+	rotate: 90
+Shadow_Ball/lightning_A
+	bounds: 164, 172, 34, 56
+	offsets: 1, 1, 37, 58
+Shadow_Ball/lightning_B
+	bounds: 2917, 12, 36, 49
+	offsets: 1, 1, 39, 51
+	rotate: 90
+Shadow_Ball/lightning_C
+	bounds: 1354, 589, 31, 32
+	offsets: 1, 1, 33, 35
+Shadow_Ball/lightning_D
+	bounds: 995, 179, 57, 53
+	offsets: 1, 2, 59, 56
+Shadow_Ball/lightning_E
+	bounds: 1238, 119, 25, 23
+	offsets: 2, 2, 29, 26
+Web/WebBurst_1
+	bounds: 1541, 277, 79, 143
+	offsets: 11, 28, 130, 216
+Web/WebBurst_2
+	bounds: 3440, 460, 104, 180
+	offsets: 7, 15, 130, 216
+Web/WebBurst_3
+	bounds: 1060, 240, 129, 205
+	offsets: 0, 6, 130, 216
+	rotate: 90
+Web/WebBurst_4
+	bounds: 3710, 182, 120, 216
+	offsets: 10, 0, 130, 216
+Web/WebProjectile_1
+	bounds: 807, 28, 73, 47
+	offsets: 5, 0, 79, 47
+Web/WebProjectile_2
+	bounds: 3718, 48, 77, 47
+	offsets: 1, 0, 79, 47
+Web/WebProjectile_3
+	bounds: 2441, 586, 79, 47
+Wind_Orb/wind_orb
+	bounds: 1144, 60, 88, 88
+	offsets: 2, 2, 92, 92
+Wind_Orb/wind_punch_1
+	bounds: 156, 46, 86, 82
+	offsets: 2, 2, 89, 85
+Wind_Orb/wind_punch_2
+	bounds: 1526, 53, 86, 84
+	offsets: 2, 2, 89, 87
+Wind_Orb/wind_punch_3
+	bounds: 1618, 55, 88, 82
+	offsets: 1, 2, 90, 86
+Wind_Orb/wind_punch_4
+	bounds: 248, 47, 87, 81
+	offsets: 2, 2, 90, 85
+Wind_Punch/aura
+	bounds: 927, 588, 432, 428
+Wind_Punch/aura - Copy
+	bounds: 1365, 588, 432, 428
+Wind_Punch/aura - Copy (2)
+	bounds: 1803, 616, 394, 400
+	offsets: 25, 16, 432, 428
+Wind_Punch/ring
+	bounds: 2838, 191, 91, 222
+	offsets: 4, 3, 98, 227
+Wind_Punch/trail
+	bounds: 3235, 82, 270, 22
+[012MIM]PE-Ice_Smoke/breath_big
+	bounds: 3318, 249, 178, 172
+	offsets: 6, 6, 190, 182
+[012MIM]PE-Ice_Smoke/breath_middle
+	bounds: 1890, 121, 146, 124
+	offsets: 6, 6, 159, 136
+[012MIM]PE-Ice_Smoke/breath_small
+	bounds: 2042, 56, 92, 93
+	offsets: 7, 6, 105, 105
+	rotate: 90
+[012MIM]PE-Ice_Smoke/breath_tiny1
+	bounds: 2483, 39, 63, 59
+	offsets: 4, 5, 72, 68
+[012MIM]PE-Ice_Smoke/breath_tiny2
+	bounds: 3884, 43, 66, 63
+	offsets: 5, 5, 76, 72
+[012MIM]PE-Ice_Smoke/breath_tiny3
+	bounds: 1040, 25, 59, 59
+	offsets: 5, 5, 68, 69
+[014ANT]electric_wave/electricwave_F1
+	bounds: 2697, 419, 248, 159
+	offsets: 1, 1, 250, 161
+[014ANT]electric_wave/electricwave_F2
+	bounds: 2441, 419, 250, 159
+	offsets: 0, 1, 250, 161
+[014ANT]electric_wave/electricwave_F3
+	bounds: 1639, 276, 226, 162
+	offsets: 1, 1, 227, 164
+[014ANT]fire_wave/firewave_F1
+	bounds: 1541, 143, 196, 127
+	offsets: 0, 4, 196, 132
+[014ANT]fire_wave/firewave_F2
+	bounds: 6, 234, 198, 136
+	offsets: 2, 5, 202, 142
+[014ANT]fire_wave/firewave_F3
+	bounds: 850, 238, 204, 131
+	offsets: 2, 3, 206, 135
+[014ANT]icy_wave/icywave_F1
+	bounds: 335, 251, 203, 133
+	offsets: 2, 2, 206, 137
+[014ANT]icy_wave/icywave_F2
+	bounds: 3502, 257, 202, 141
+	offsets: 2, 3, 205, 146
+[014ANT]icy_wave/icywave_F3
+	bounds: 2622, 277, 210, 136
+	offsets: 1, 1, 212, 139
+[014ANT]icy_wave/snowflake1
+	bounds: 807, 97, 26, 27
+	offsets: 1, 1, 28, 29
+[014ANT]icy_wave/snowflake2
+	bounds: 3463, 131, 26, 27
+	offsets: 1, 1, 28, 29
+[014ANT]spore_clouds/breath_big
+	bounds: 3318, 117, 139, 126
+	offsets: 1, 1, 141, 128
+[014ANT]spore_clouds/breath_middle
+	bounds: 2828, 76, 109, 85
+	offsets: 1, 1, 111, 87
+	rotate: 90
+[014ANT]spore_clouds/breath_small
+	bounds: 1979, 60, 53, 55
+	offsets: 1, 1, 56, 57
+[014ANT]spore_clouds/breath_tiny1
+	bounds: 164, 135, 36, 31
+	offsets: 2, 0, 39, 32
+[014ANT]spore_clouds/breath_tiny2
+	bounds: 3761, 7, 38, 35
+	offsets: 3, 1, 42, 37
+[014ANT]spore_clouds/breath_tiny3
+	bounds: 3463, 164, 32, 32
+	offsets: 1, 1, 34, 34
+[014ANT]spore_clouds/single_spore_A
+	bounds: 1754, 1005, 10, 11
+[014ANT]spore_clouds/single_spore_B
+	bounds: 1385, 1006, 11, 10
+[014ANT]spore_clouds/single_spore_C
+	bounds: 923, 629, 5, 13
+[014ANT]spore_clouds/single_spore_D
+	bounds: 1402, 1011, 10, 5
+[014ANT]spore_clouds/single_spore_E
+	bounds: 1787, 978, 6, 6
+blue/laser_burst_1
+	bounds: 1271, 116, 124, 128
+	offsets: 1, 2, 127, 132
+	rotate: 90
+blue/laser_burst_2
+	bounds: 1871, 251, 177, 187
+	offsets: 2, 2, 181, 191
+blue/laser_burst_3
+	bounds: 1142, 375, 208, 213
+	offsets: 1, 1, 210, 215
+	rotate: 90
+blue/laser_muzzle_flash_1
+	bounds: 2042, 154, 69, 152
+	offsets: 1, 1, 72, 155
+	rotate: 90
+blue/laser_muzzle_flash_2
+	bounds: 1060, 154, 80, 176
+	offsets: 1, 1, 82, 179
+	rotate: 90
+blue/laser_projectile_1
+	bounds: 2536, 104, 137, 74
+	offsets: 2, 1, 140, 76
+	rotate: 90
+blue/laser_projectile_2
+	bounds: 591, 150, 139, 79
+	offsets: 2, 2, 142, 83
+burning_effect/ember1
+	bounds: 974, 25, 60, 59
+	offsets: 2, 2, 64, 63
+burning_effect/ember2
+	bounds: 72, 25, 60, 59
+	offsets: 2, 2, 64, 63
+burning_effect/ember_3
+	bounds: 1861, 80, 22, 24
+	offsets: 1, 1, 24, 26
+burning_effect/ember_4
+	bounds: 1712, 111, 21, 26
+	offsets: 1, 1, 23, 28
+butt smoke/smoke A
+	bounds: 508, 43, 70, 67
+butt smoke/smoke B
+	bounds: 584, 18, 62, 54
+butt smoke/smoke C
+	bounds: 341, 38, 80, 72
+butt smoke/smoke D
+	bounds: 2972, 9, 39, 44
+	rotate: 90
+butt smoke/smoke E
+	bounds: 4056, 42, 33, 32
+electricity/Sparks/Spark_A
+	bounds: 591, 237, 52, 20
+electricity/Sparks/Spark_B
+	bounds: 1332, 595, 16, 6
+electricity/Sparks/Spark_C
+	bounds: 248, 13, 46, 28
+electricity/Sparks/Spark_D
+	bounds: 927, 964, 7, 14
+electricity/Sparks/Spark_E
+	bounds: 927, 984, 15, 32
+	offsets: 0, 1, 15, 34
+explosion small/explosion1
+	bounds: 3871, 445, 210, 212
+	offsets: 1, 1, 211, 223
+explosion small/explosion2
+	bounds: 1361, 246, 174, 174
+	offsets: 16, 39, 211, 223
+explosion small/explosion3
+	bounds: 3871, 246, 199, 193
+	offsets: 4, 30, 211, 223
+explosion small/explosion4
+	bounds: 3902, 671, 160, 152
+	offsets: 25, 34, 211, 223
+explosion small/explosion5
+	bounds: 2230, 229, 167, 163
+	offsets: 20, 28, 211, 223
+explosion small/explosion6
+	bounds: 2951, 245, 179, 176
+	offsets: 12, 22, 211, 223
+explosion small/explosion7
+	bounds: 3136, 245, 176, 176
+	offsets: 16, 22, 211, 223
+explosion small/explosion8
+	bounds: 2441, 247, 175, 166
+	offsets: 17, 29, 211, 223
+explosion small/explosion9
+	bounds: 672, 235, 172, 162
+	offsets: 20, 32, 211, 223
+fire_explosion/big_spark
+	bounds: 1639, 447, 141, 136
+	offsets: 0, 0, 144, 136
+fire_explosion/dissipation_A
+	bounds: 3966, 43, 84, 71
+	offsets: 1, 1, 86, 73
+fire_explosion/dissipation_B
+	bounds: 1322, 40, 66, 70
+	offsets: 1, 1, 68, 72
+fire_explosion/dissipation_C
+	bounds: 2186, 6, 40, 44
+	offsets: 1, 1, 42, 46
+fire_explosion/dissipation_D
+	bounds: 1712, 45, 59, 76
+	offsets: 1, 1, 61, 78
+	rotate: 90
+fire_explosion/dissipation_smoke_A
+	bounds: 3650, 36, 59, 62
+	offsets: 1, 2, 61, 65
+	rotate: 90
+fire_explosion/dissipation_smoke_B
+	bounds: 2414, 36, 63, 73
+	offsets: 2, 1, 66, 75
+fire_explosion/dissipation_smoke_C
+	bounds: 6, 25, 60, 59
+	offsets: 2, 2, 63, 63
+fire_explosion/dissipation_smoke_D
+	bounds: 3812, 38, 66, 68
+	offsets: 1, 1, 68, 70
+fire_explosion/explosion_cloud_A
+	bounds: 2707, 53, 85, 83
+	offsets: 1, 2, 87, 86
+fire_explosion/explosion_cloud_B
+	bounds: 2235, 60, 88, 83
+	offsets: 1, 1, 90, 85
+fire_explosion/explosion_cloud_C
+	bounds: 2616, 53, 83, 85
+	offsets: 1, 1, 85, 88
+	rotate: 90
+fire_explosion/explosion_cloud_D
+	bounds: 1890, 36, 83, 79
+	offsets: 1, 2, 85, 82
+fire_explosion/explosion_cloud_E
+	bounds: 2329, 46, 79, 63
+	offsets: 1, 1, 82, 65
+fire_explosion/flame_particle_A
+	bounds: 2552, 50, 52, 48
+	offsets: 1, 1, 54, 50
+fire_explosion/flame_particle_B
+	bounds: 3463, 202, 27, 41
+	offsets: 1, 1, 29, 43
+fire_explosion/flame_particle_C
+	bounds: 1493, 10, 45, 37
+	offsets: 1, 1, 47, 39
+fire_explosion/flame_particle_D
+	bounds: 3022, 11, 37, 46
+	offsets: 1, 1, 39, 48
+	rotate: 90
+fire_explosion/flame_particle_E
+	bounds: 2343, 116, 41, 51
+	offsets: 1, 1, 43, 53
+	rotate: 90
+fire_explosion/glow
+	bounds: 2203, 398, 232, 235
+	offsets: 5, 5, 242, 243
+fire_explosion/line_A
+	bounds: 138, 21, 47, 19
+	offsets: 1, 1, 49, 20
+fire_explosion/line_B
+	bounds: 2403, 302, 30, 90
+	offsets: 1, 1, 31, 92
+fire_explosion/line_C
+	bounds: 1271, 255, 72, 114
+	offsets: 0, 0, 73, 115
+fire_explosion/smoke_particle_A
+	bounds: 652, 21, 48, 51
+	offsets: 2, 2, 51, 54
+fire_explosion/smoke_particle_B
+	bounds: 2526, 585, 38, 48
+	offsets: 1, 2, 40, 51
+fire_explosion/smoke_particle_C
+	bounds: 2552, 7, 37, 37
+	offsets: 1, 1, 39, 39
+fire_explosion/spark
+	bounds: 2798, 79, 21, 21
+	offsets: 1, 1, 23, 23
+fire_explosion/spike_particle
+	bounds: 2034, 31, 19, 97
+	rotate: 90
+giant_spit/giant_spit_projectile
+	bounds: 210, 134, 211, 111
+lazor/lazor_body_1
+	bounds: 3235, 57, 187, 19
+lazor/lazor_body_2
+	bounds: 2919, 79, 193, 19
+lazor/lazor_body_3
+	bounds: 2919, 54, 186, 19
+lazor/lazor_redshine
+	bounds: 2919, 104, 201, 46
+	offsets: 9, 5, 210, 54
+projectile/diamond_particle
+	bounds: 850, 375, 52, 22
+projectile/main_piece
+	bounds: 591, 78, 121, 66
+projectile/overlay
+	bounds: 2622, 142, 200, 129
+	offsets: 10, 9, 219, 147
+projectile/ring_A
+	bounds: 1242, 148, 19, 37
+projectile/ring_B
+	bounds: 3104, 517, 9, 61
+projectile/ring_C
+	bounds: 3680, 208, 22, 43
+projectile/ring_D
+	bounds: 4068, 674, 20, 50
+projectile/ring_E
+	bounds: 3104, 486, 9, 25
+projectile/round_particle
+	bounds: 1357, 630, 9, 9
+projectile/smoke_A
+	bounds: 2688, 15, 48, 32
+	offsets: 1, 1, 50, 34
+projectile/smoke_B
+	bounds: 1618, 9, 45, 40
+	offsets: 2, 2, 48, 44
+projectile/smoke_C
+	bounds: 3385, 20, 35, 31
+	offsets: 2, 1, 39, 34
+projectile/smoke_D
+	bounds: 3680, 185, 20, 17
+	offsets: 1, 1, 22, 19
+projectile/spark_particle_A
+	bounds: 2289, 35, 33, 19
+	offsets: 1, 1, 35, 21
+projectile/spark_particle_B
+	bounds: 1391, 589, 20, 14
+	offsets: 1, 1, 22, 16
+projectile/spark_particle_C
+	bounds: 3502, 405, 30, 17
+	offsets: 1, 1, 32, 19
+red/laser_burst_1
+	bounds: 3836, 112, 124, 128
+	offsets: 1, 2, 127, 132
+red/laser_burst_2
+	bounds: 3902, 829, 177, 187
+	offsets: 2, 2, 181, 191
+red/laser_burst_3
+	bounds: 923, 375, 208, 213
+	offsets: 1, 1, 210, 215
+	rotate: 90
+red/laser_muzzle_flash_1
+	bounds: 6, 159, 69, 152
+	offsets: 1, 1, 72, 155
+	rotate: 90
+red/laser_muzzle_flash_2
+	bounds: 3126, 159, 80, 176
+	offsets: 1, 1, 82, 179
+	rotate: 90
+red/laser_projectile_1
+	bounds: 2200, 149, 137, 74
+	offsets: 2, 1, 140, 76
+red/laser_projectile_2
+	bounds: 850, 153, 139, 79
+	offsets: 2, 2, 142, 83
+shockwave/shockwave_1
+	bounds: 1790, 444, 398, 166
+	offsets: 2, 2, 402, 170
+shockwave/shockwave_2
+	bounds: 2573, 584, 542, 205
+	offsets: 2, 2, 546, 209
+shockwave/shockwave_3
+	bounds: 2573, 795, 607, 221
+	offsets: 2, 2, 611, 225
+shockwave/smoke
+	bounds: 6, 690, 915, 326
+sour_projectile/burst_1
+	bounds: 672, 403, 245, 281
+	offsets: 0, 0, 246, 281
+sour_projectile/burst_2
+	bounds: 6, 376, 323, 308
+sour_projectile/burst_3
+	bounds: 3550, 663, 353, 345
+	rotate: 90
+sour_projectile/burst_4a
+	bounds: 335, 390, 294, 331
+	rotate: 90
+sour_projectile/burst_4b
+	bounds: 3550, 404, 253, 315
+	rotate: 90
+sour_projectile/projectile_bottom
+	bounds: 2610, 25, 22, 72
+	rotate: 90
+sour_projectile/projectile_fx1
+	bounds: 3121, 653, 48, 68
+sour_projectile/projectile_fx2
+	bounds: 1356, 953, 12, 23
+sour_projectile/projectile_middle
+	bounds: 3531, 429, 12, 25
+sour_projectile/projectile_top
+	bounds: 1794, 36, 61, 68
+vfx_sparkles/dream_sparkle2
+	bounds: 923, 593, 27, 26
+	offsets: 0, 1, 27, 27
+vfx_sparkles/dream_sparkle3
+	bounds: 1321, 1001, 15, 15

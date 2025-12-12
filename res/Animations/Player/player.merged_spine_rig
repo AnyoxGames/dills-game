@@ -1,0 +1,8 @@
+{
+    "output": "Animations/Player/player.spine",
+    "base_rig": "Animations/Player/BedWarsRig/playercharacter.spine",
+    "rigs_to_merge": [
+        { "rig": "$AO/schleem/playercharacter.spine", },
+        { "rig": "Animations/Player/RedSunRig/013RED_Player_Character.spine", },
+    ],
+}

@@ -1,0 +1,803 @@
+hit_effect.png
+	size: 4096, 3436
+	filter: Linear, Linear
+	scale: 0.5
+009SG_shockwave
+	bounds: 1496, 119, 134, 130
+	offsets: 1, 1, 136, 132
+2/shockwave_A
+	bounds: 1961, 621, 23, 31
+	offsets: 0, 0, 24, 31
+2/shockwave_B
+	bounds: 2609, 1331, 21, 20
+2/shockwave_C
+	bounds: 2744, 1336, 20, 15
+	offsets: 1, 0, 21, 15
+2/shockwave_D
+	bounds: 3700, 781, 30, 25
+2/spark
+	bounds: 276, 588, 17, 41
+	offsets: 6, 13, 29, 61
+Acid Droplets/splat1
+	bounds: 2798, 1794, 14, 12
+Acid Droplets/splat2
+	bounds: 787, 1707, 46, 22
+Acid Droplets/splat3
+	bounds: 2716, 1336, 22, 15
+Acid Droplets/splat4
+	bounds: 961, 1703, 32, 26
+Acid Frames/circular_acid_spurt_1
+	bounds: 1678, 122, 138, 127
+Acid Frames/circular_acid_spurt_2
+	bounds: 3463, 236, 154, 142
+Acid Frames/circular_acid_spurt_3
+	bounds: 2500, 259, 160, 147
+	rotate: 90
+Acid Frames/directional_acid_spurt_1
+	bounds: 3033, 42, 96, 83
+Acid Frames/directional_acid_spurt_2
+	bounds: 1189, 46, 100, 80
+Acid Frames/directional_acid_spurt_3
+	bounds: 1295, 41, 101, 78
+Acid Frames/upwards_acid_spurt_1
+	bounds: 3985, 3147, 138, 101
+	rotate: 90
+Acid Frames/upwards_acid_spurt_2
+	bounds: 3141, 120, 153, 106
+Acid Frames/upwards_acid_spurt_3
+	bounds: 2652, 137, 160, 108
+Acid Large Frames/hugeblood1
+	bounds: 3481, 384, 210, 235
+	rotate: 90
+Acid Large Frames/hugeblood2
+	bounds: 3049, 964, 387, 360
+Acid Large Frames/hugeblood3
+	bounds: 2568, 938, 475, 386
+Acid Large Frames/hugeblood4
+	bounds: 580, 1283, 568, 411
+Acid Large Frames/hugeblood5
+	bounds: 2253, 1357, 595, 428
+Acid Large Frames/hugeblood6
+	bounds: 3446, 1330, 586, 432
+Ice Particles/snow_flake1
+	bounds: 276, 522, 23, 26
+MOD/Ice Particles/snow_flake1
+	bounds: 276, 522, 23, 26
+Ice Particles/snow_flake2
+	bounds: 3051, 1779, 28, 32
+Ice Particles/sparkle
+	bounds: 3736, 776, 23, 30
+Ice Storm/ground_snowflake
+	bounds: 2087, 670, 289, 295
+	offsets: 9, 11, 307, 317
+	rotate: 90
+Ice Storm/ice_chunk_A
+	bounds: 2753, 10, 56, 54
+Ice Storm/ice_chunk_B
+	bounds: 4038, 1427, 43, 58
+Ice Storm/ice_chunk_C
+	bounds: 308, 769, 38, 36
+Ice Storm/line_A
+	bounds: 3038, 2216, 40, 134
+	offsets: 1, 1, 42, 136
+Ice Storm/line_B
+	bounds: 3303, 116, 114, 147
+	offsets: 1, 1, 116, 149
+	rotate: 90
+Ice Storm/line_C
+	bounds: 3830, 1773, 50, 37
+	offsets: 1, 1, 52, 39
+Ice Storm/line_D
+	bounds: 1194, 272, 194, 135
+	offsets: 1, 1, 196, 137
+Ice Storm/snow_particle_A
+	bounds: 4038, 1313, 47, 52
+	offsets: 1, 1, 49, 54
+Ice Storm/snow_particle_B
+	bounds: 4038, 1491, 49, 55
+	offsets: 1, 1, 51, 57
+Ice Storm/snow_particle_C
+	bounds: 4038, 1611, 50, 55
+	offsets: 1, 1, 52, 57
+Ice Storm/snow_particle_D
+	bounds: 276, 492, 24, 24
+	offsets: 1, 1, 26, 26
+Ice_Smoke/breath_big
+	bounds: 1683, 255, 178, 172
+	offsets: 6, 6, 190, 182
+Ice_Smoke/breath_middle
+	bounds: 2500, 129, 146, 124
+	offsets: 6, 6, 159, 136
+Ice_Smoke/breath_small
+	bounds: 582, 43, 92, 93
+	offsets: 7, 6, 105, 105
+Ice_Smoke/breath_tiny1
+	bounds: 318, 48, 63, 59
+	offsets: 4, 5, 72, 68
+Ice_Smoke/breath_tiny2
+	bounds: 2046, 48, 66, 63
+	offsets: 5, 5, 76, 72
+Ice_Smoke/breath_tiny3
+	bounds: 1194, 434, 59, 59
+	offsets: 5, 5, 68, 69
+MOD/Ice Maker/iceblock wo cracks
+	bounds: 342, 113, 117, 147
+	offsets: 2, 0, 119, 147
+MOD/Ice Maker/shard 1
+	bounds: 4038, 1743, 45, 67
+	offsets: 3, 0, 48, 67
+MOD/Ice Maker/shard 10
+	bounds: 3038, 2135, 41, 75
+MOD/Ice Maker/shard 2
+	bounds: 576, 678, 29, 34
+MOD/Ice Maker/shard 3
+	bounds: 3850, 24, 53, 58
+	rotate: 90
+MOD/Ice Maker/shard 4
+	bounds: 4054, 996, 32, 43
+MOD/Ice Maker/shard 5
+	bounds: 3038, 2015, 39, 50
+MOD/Ice Maker/shard 6
+	bounds: 276, 461, 20, 25
+MOD/Ice Maker/shard 7
+	bounds: 4054, 870, 31, 36
+MOD/Ice Maker/shard 8
+	bounds: 4038, 1144, 48, 47
+MOD/Ice Maker/shard 9
+	bounds: 4038, 1672, 45, 65
+	offsets: 0, 0, 46, 65
+MOD/Ice Particles/cloud frame 1
+	bounds: 2958, 264, 180, 173
+MOD/Ice Particles/cloud frame 2
+	bounds: 3830, 1816, 263, 254
+	rotate: 90
+MOD/Ice Particles/cloud frame 3
+	bounds: 6, 958, 346, 343
+MOD/Ice Particles/snowflake 3
+	bounds: 2739, 1793, 14, 13
+MOD/Ice Particles/snowflake 5
+	bounds: 2045, 2279, 12, 16
+MOD/Ice Particles/snowflake 7
+	bounds: 648, 681, 28, 31
+MOD/Ice Particles/snowflake 9
+	bounds: 3936, 1769, 38, 41
+	offsets: 1, 1, 40, 43
+Poison Sting Particles/Poison Bubble 1
+	bounds: 611, 681, 31, 31
+Poison Sting Particles/Poison Bubble 2
+	bounds: 1961, 518, 24, 24
+Poison Sting Particles/Poison Bubble 3
+	bounds: 2327, 432, 22, 22
+Poison Sting Particles/Poison Bubble 4
+	bounds: 2759, 1793, 13, 13
+Shiny Sparkle (1)
+	bounds: 4054, 912, 35, 34
+	offsets: 0, 1, 35, 35
+Smoke1
+	bounds: 308, 855, 41, 42
+[014ANT]oblivion_explosion/big_ring
+	bounds: 3086, 1768, 738, 603
+	offsets: 8, 8, 754, 619
+[014ANT]oblivion_explosion/circle_fade
+	bounds: 2652, 44, 95, 87
+[014ANT]oblivion_explosion/circle_glow
+	bounds: 982, 47, 95, 87
+[014ANT]oblivion_explosion/cloud
+	bounds: 576, 301, 189, 189
+[014ANT]oblivion_explosion/explosion_flash
+	bounds: 1048, 1700, 595, 598
+	offsets: 0, 4, 595, 602
+	rotate: 90
+[014ANT]oblivion_explosion/flare
+	bounds: 3442, 1115, 590, 209
+	offsets: 4, 0, 598, 209
+[014ANT]oblivion_explosion/glow
+	bounds: 762, 61, 114, 114
+	offsets: 3, 3, 120, 120
+[014ANT]oblivion_explosion/ribbon1
+	bounds: 3384, 600, 415, 169
+	offsets: 5, 0, 420, 169
+[014ANT]oblivion_explosion/ribbon2
+	bounds: 3442, 812, 297, 319
+	offsets: 12, 0, 309, 319
+	rotate: 90
+[014ANT]oblivion_explosion/spark_particle_B
+	bounds: 3985, 3030, 111, 104
+	offsets: 3, 3, 118, 111
+	rotate: 90
+accelerator_gun+hands/hit_vfx/smash_burst_1/1
+	bounds: 2854, 1770, 191, 153
+	offsets: 2, 2, 195, 157
+accelerator_gun+hands/hit_vfx/smash_burst_1/2
+	bounds: 358, 718, 323, 275
+	offsets: 2, 2, 327, 279
+accelerator_gun+hands/hit_vfx/smash_burst_1/3
+	bounds: 3049, 700, 258, 329
+	offsets: 2, 2, 262, 333
+	rotate: 90
+accelerator_gun+hands/hit_vfx/smash_burst_1/4
+	bounds: 2680, 430, 240, 272
+	offsets: 2, 2, 244, 275
+	rotate: 90
+accelerator_gun+hands/hit_vfx/smash_burst_2/1
+	bounds: 1984, 1806, 64, 123
+	offsets: 2, 2, 68, 127
+accelerator_gun+hands/hit_vfx/smash_burst_2/2
+	bounds: 1652, 1805, 124, 326
+	offsets: 2, 2, 128, 330
+	rotate: 90
+accelerator_gun+hands/hit_vfx/smash_burst_2/3
+	bounds: 576, 496, 165, 367
+	offsets: 2, 2, 169, 371
+	rotate: 90
+accelerator_gun+hands/hit_vfx/smash_burst_3/1
+	bounds: 1867, 318, 83, 109
+	offsets: 2, 2, 87, 113
+accelerator_gun+hands/hit_vfx/smash_burst_3/2
+	bounds: 2388, 425, 243, 265
+	offsets: 2, 2, 247, 269
+	rotate: 90
+accelerator_gun+hands/hit_vfx/smash_burst_3/3
+	bounds: 1702, 658, 293, 246
+	offsets: 2, 2, 297, 250
+accelerator_gun+hands/hit_vfx/smash_burst_3/4
+	bounds: 2001, 456, 310, 208
+	offsets: 2, 2, 314, 212
+accelerator_gun+hands/hit_vfx/smash_burst_3/5
+	bounds: 1497, 428, 216, 180
+	offsets: 2, 2, 220, 184
+	rotate: 90
+accelerator_gun+hands/hit_vfx/smash_burst_3/6
+	bounds: 465, 58, 109, 111
+	offsets: 2, 2, 112, 115
+	rotate: 90
+accelerator_gun+hands/hit_vfx/smash_burst_4/1
+	bounds: 1702, 433, 253, 219
+	offsets: 2, 2, 257, 223
+accelerator_gun+hands/hit_vfx/smash_burst_4/2
+	bounds: 3767, 775, 281, 334
+	offsets: 1, 2, 284, 338
+accelerator_gun+hands/hit_vfx/smash_burst_4/3
+	bounds: 1082, 891, 318, 322
+	offsets: 2, 2, 322, 325
+	rotate: 90
+accelerator_gun+hands/hit_vfx/smash_burst_4/4
+	bounds: 753, 949, 323, 328
+	offsets: 2, 2, 326, 332
+accelerator_gun+hands/hit_vfx/smash_burst_5/1
+	bounds: 3600, 776, 28, 30
+	offsets: 2, 2, 32, 34
+accelerator_gun+hands/hit_vfx/smash_burst_5/2
+	bounds: 687, 951, 48, 42
+	offsets: 2, 2, 52, 46
+accelerator_gun+hands/hit_vfx/smash_burst_5/3
+	bounds: 882, 45, 94, 89
+	offsets: 2, 2, 98, 93
+accelerator_gun+hands/hit_vfx/smash_burst_5/4
+	bounds: 2342, 123, 138, 127
+	offsets: 2, 2, 142, 131
+accelerator_gun+hands/hit_vfx/smash_burst_6/1
+	bounds: 2636, 1331, 19, 20
+	offsets: 1, 2, 21, 23
+accelerator_gun+hands/hit_vfx/smash_burst_6/2
+	bounds: 839, 1701, 32, 28
+	offsets: 1, 1, 34, 30
+accelerator_gun+hands/hit_vfx/smash_burst_6/3
+	bounds: 387, 48, 62, 59
+	offsets: 2, 1, 65, 61
+accelerator_gun+hands/hit_vfx/smash_burst_6/4
+	bounds: 2342, 34, 92, 83
+	offsets: 1, 2, 94, 87
+accelerator_gun+hands/hit_vfx/smash_burst_7/1
+	bounds: 1410, 922, 218, 287
+	offsets: 2, 2, 222, 291
+accelerator_gun+hands/hit_vfx/smash_burst_7/2
+	bounds: 358, 1000, 278, 389
+	offsets: 1, 2, 281, 393
+	rotate: 90
+accelerator_gun+hands/hit_vfx/smash_burst_7/3
+	bounds: 2739, 1929, 293, 421
+	offsets: 1, 2, 296, 425
+blood/circular_blood_spurt_1
+	bounds: 2997, 131, 138, 127
+blood/circular_blood_spurt_2
+	bounds: 3303, 236, 154, 142
+blood/circular_blood_spurt_3
+	bounds: 942, 254, 160, 147
+blood/directional_blood_spurt_1
+	bounds: 2931, 42, 96, 83
+blood/directional_blood_spurt_2
+	bounds: 1083, 46, 100, 80
+blood/directional_blood_spurt_3
+	bounds: 2486, 45, 101, 78
+blood/upwards_blood_spurt_1
+	bounds: 3985, 3291, 138, 101
+	rotate: 90
+blood/upwards_blood_spurt_2
+	bounds: 3456, 124, 153, 106
+blood/upwards_blood_spurt_3
+	bounds: 922, 140, 160, 108
+blood_splat/splat1
+	bounds: 2778, 1794, 14, 12
+blood_splat/splat2
+	bounds: 735, 1707, 46, 22
+blood_splat/splat3
+	bounds: 2688, 1336, 22, 15
+blood_splat/splat4
+	bounds: 923, 1703, 32, 26
+burning_effect/ember1
+	bounds: 1194, 499, 60, 59
+	offsets: 2, 2, 64, 63
+	rotate: 90
+burning_effect/ember2
+	bounds: 2118, 52, 60, 59
+	offsets: 2, 2, 64, 63
+burst-1
+	bounds: 3260, 50, 66, 60
+burst-2
+	bounds: 222, 31, 90, 83
+	offsets: 0, 0, 90, 84
+burst-3
+	bounds: 3985, 2705, 104, 99
+burst-ice-explosion-1
+	bounds: 2388, 674, 286, 258
+burst-ice-explosion-2
+	bounds: 1410, 650, 286, 254
+burst-ice-explosion-3
+	bounds: 969, 633, 285, 252
+	offsets: 1, 0, 286, 252
+burst-ice-explosion-4
+	bounds: 3830, 2085, 286, 250
+	offsets: 0, 0, 286, 251
+	rotate: 90
+burst-ice-explosion-5
+	bounds: 2680, 676, 286, 256
+burst-spikes
+	bounds: 3805, 508, 268, 261
+	offsets: 1, 0, 269, 262
+cloud1
+	bounds: 468, 302, 70, 53
+	offsets: 1, 1, 72, 55
+cloud2
+	bounds: 3552, 55, 53, 63
+	offsets: 1, 1, 55, 65
+cloud3
+	bounds: 276, 554, 23, 28
+	offsets: 1, 1, 25, 29
+cloud4
+	bounds: 3384, 911, 45, 47
+	offsets: 1, 1, 47, 49
+cloud5
+	bounds: 2355, 430, 20, 24
+	offsets: 1, 1, 22, 26
+dust/dust particle
+	bounds: 3980, 1773, 42, 37
+dust/dust particle 2
+	bounds: 1260, 655, 142, 58
+dust/dust particle 3
+	bounds: 1822, 56, 109, 82
+	offsets: 0, 0, 110, 82
+rook_rock/Dust/Bigger dust particle (3)
+	bounds: 1822, 56, 109, 82
+	offsets: 0, 0, 110, 82
+dust/dust particle 4
+	bounds: 680, 6, 55, 54
+dust/dust particle 5
+	bounds: 1108, 274, 62, 53
+dust/dust_cloudA
+	bounds: 468, 361, 101, 91
+rook_rock/Dust/dust_cloudA
+	bounds: 468, 361, 101, 91
+dust/dust_cloudB
+	bounds: 3985, 2594, 90, 105
+dust/dust_cloudC
+	bounds: 2317, 598, 64, 66
+electric-burst-lines
+	bounds: 2972, 443, 251, 262
+	offsets: 1, 1, 254, 264
+	rotate: 90
+electricity/Sparks/Spark_A
+	bounds: 677, 1709, 52, 20
+electricity/Sparks/Spark_B
+	bounds: 2006, 1794, 16, 6
+electricity/Sparks/Spark_C
+	bounds: 580, 1701, 46, 28
+electricity/Sparks/Spark_D
+	bounds: 4081, 2685, 7, 14
+electricity/Sparks/Spark_E
+	bounds: 3209, 405, 15, 32
+	offsets: 0, 1, 15, 34
+electricity/Sparks/Spark_F
+	bounds: 3384, 777, 34, 30
+electricity/Sparks/Spark_G
+	bounds: 2568, 1333, 35, 18
+	offsets: 0, 1, 35, 19
+electricity/Sparks/Spark_H
+	bounds: 1984, 1794, 16, 6
+electricity/Sparks/Spark_I
+	bounds: 877, 1707, 40, 22
+electricity/Sparks/Spark_J
+	bounds: 2818, 1795, 14, 11
+electricity/Yellow Shock Sparks/spark_A
+	bounds: 184, 320, 85, 100
+	offsets: 1, 1, 87, 102
+electricity/Yellow Shock Sparks/spark_B
+	bounds: 3240, 605, 124, 89
+	offsets: 1, 1, 126, 91
+electricity/Yellow Shock Sparks/spark_C
+	bounds: 1636, 40, 99, 76
+	offsets: 1, 1, 101, 78
+electricity/Yellow Shock Sparks/spark_D
+	bounds: 3985, 2915, 105, 109
+	offsets: 1, 1, 107, 111
+electricity/Yellow Shock Sparks/spark_E
+	bounds: 3623, 318, 86, 60
+	offsets: 1, 1, 88, 62
+emp/Emp_Burst/Emp_Burst_1
+	bounds: 2739, 1812, 106, 111
+emp/Emp_Burst/Emp_Burst_2
+	bounds: 2839, 305, 109, 119
+emp/Emp_Burst/Emp_Burst_3
+	bounds: 3144, 232, 147, 153
+	rotate: 90
+explosion/big_sparkle
+	bounds: 3925, 86, 116, 139
+	offsets: 0, 1, 116, 141
+	rotate: 90
+explosion/dissipation_A
+	bounds: 1402, 43, 88, 76
+	offsets: 3, 2, 94, 81
+explosion/dissipation_B
+	bounds: 3144, 386, 59, 51
+	offsets: 2, 2, 64, 56
+explosion/dissipation_C
+	bounds: 680, 66, 74, 70
+	offsets: 2, 1, 79, 74
+explosion/dissipation_D
+	bounds: 3722, 523, 73, 71
+	offsets: 2, 3, 78, 76
+explosion/explosion_cloud_A
+	bounds: 1251, 183, 81, 83
+	offsets: 1, 1, 83, 85
+explosion/explosion_cloud_B
+	bounds: 1741, 46, 71, 70
+	offsets: 1, 2, 73, 73
+explosion/explosion_cloud_C
+	bounds: 1394, 312, 93, 95
+	offsets: 1, 2, 95, 99
+explosion/explosion_cloud_D
+	bounds: 2265, 47, 70, 64
+	offsets: 1, 1, 72, 66
+explosion/glow
+	bounds: 771, 325, 165, 165
+	offsets: 10, 9, 185, 185
+explosion/smoke_particle_A
+	bounds: 3384, 813, 38, 43
+	offsets: 1, 1, 40, 45
+explosion/smoke_particle_B
+	bounds: 3051, 1817, 28, 32
+	offsets: 1, 1, 30, 34
+explosion/smoke_particle_C
+	bounds: 1961, 459, 22, 22
+	offsets: 1, 1, 24, 24
+explosion/spark
+	bounds: 308, 811, 38, 38
+	offsets: 4, 4, 46, 47
+explosion/spike_particle
+	bounds: 3051, 1855, 19, 97
+flash
+	bounds: 2001, 727, 75, 73
+	offsets: 1, 1, 77, 75
+glow
+	bounds: 3985, 2491, 96, 97
+	offsets: 2, 1, 100, 100
+glow1
+	bounds: 3424, 776, 30, 30
+	offsets: 1, 1, 31, 32
+glow2
+	bounds: 308, 727, 37, 36
+	offsets: 0, 1, 38, 38
+glow3
+	bounds: 3985, 2810, 104, 99
+	offsets: 2, 1, 107, 101
+heal_blob
+	bounds: 1082, 1217, 63, 60
+heal_particle
+	bounds: 4038, 1197, 47, 49
+	offsets: 2, 2, 51, 53
+heal_puft_1
+	bounds: 1937, 52, 103, 86
+	offsets: 4, 6, 110, 95
+heal_puft_2
+	bounds: 1108, 333, 78, 68
+	offsets: 4, 3, 85, 74
+heal_puft_3
+	bounds: 3615, 60, 115, 116
+	offsets: 5, 4, 123, 125
+	rotate: 90
+heal_shaft
+	bounds: 4054, 1045, 16, 93
+	offsets: 1, 0, 17, 99
+heal_sparkle_1
+	bounds: 3038, 1958, 37, 51
+	offsets: 2, 2, 40, 54
+hit_effect/hit_effect1
+	bounds: 2317, 460, 60, 62
+hit_effect/hit_effect2
+	bounds: 1496, 31, 80, 82
+hit_effect/hit_effect3
+	bounds: 125, 40, 88, 91
+	rotate: 90
+hit_effect/hit_effect_0
+	bounds: 4054, 794, 34, 30
+	offsets: 0, 0, 34, 31
+hit_star
+	bounds: 771, 181, 138, 145
+	offsets: 0, 1, 138, 146
+	rotate: 90
+hit_star_white
+	bounds: 1108, 132, 134, 137
+	offsets: 1, 8, 138, 146
+	rotate: 90
+huge blood fx/hugeblood1
+	bounds: 3240, 385, 210, 235
+	rotate: 90
+huge blood fx/hugeblood2
+	bounds: 1652, 1935, 387, 360
+huge blood fx/hugeblood3
+	bounds: 2087, 965, 475, 386
+huge blood fx/hugeblood4
+	bounds: 6, 1307, 568, 411
+huge blood fx/hugeblood5
+	bounds: 1652, 1357, 595, 428
+huge blood fx/hugeblood6
+	bounds: 2854, 1330, 586, 432
+ice-explosion-1
+	bounds: 2145, 272, 176, 178
+	offsets: 2, 1, 180, 180
+ice-explosion-2
+	bounds: 2659, 251, 173, 174
+	offsets: 1, 0, 175, 174
+	rotate: 90
+ice-explosion-3
+	bounds: 3722, 309, 198, 193
+ice-explosion-4
+	bounds: 3926, 343, 159, 152
+	rotate: 90
+ice-explosion-5
+	bounds: 2327, 256, 167, 163
+ice-explosion-6
+	bounds: 1961, 274, 178, 176
+ice-explosion-7
+	bounds: 1497, 255, 175, 167
+ice-explosion-8
+	bounds: 6, 258, 172, 162
+ice-glow
+	bounds: 308, 458, 262, 254
+	offsets: 12, 10, 286, 274
+ice-orb
+	bounds: 1194, 565, 59, 62
+	offsets: 1, 0, 61, 63
+kitsune fx/SmallFire/SmallFire_1
+	bounds: 468, 173, 122, 158
+	offsets: 19, 27, 155, 195
+	rotate: 90
+kitsune fx/SmallFire/SmallFire_2
+	bounds: 3926, 208, 129, 162
+	offsets: 11, 26, 155, 195
+	rotate: 90
+kitsune fx/SmallFire/SmallFire_3
+	bounds: 1260, 719, 133, 166
+	offsets: 9, 25, 155, 195
+kitsune fx/SmallFire/SmallFire_4
+	bounds: 3623, 181, 122, 168
+	offsets: 19, 25, 155, 195
+	rotate: 90
+kitsune fx/SmallFire/SmallFire_5
+	bounds: 3797, 154, 122, 149
+	offsets: 15, 25, 155, 195
+kitsune fx/SmallFire/SmallFire_6
+	bounds: 6, 134, 118, 153
+	offsets: 16, 25, 155, 195
+	rotate: 90
+kitsune fx/SmallFire/SmallFire_7
+	bounds: 632, 142, 124, 153
+	offsets: 15, 26, 155, 195
+kitsune fx/SmallFire/SmallFire_8
+	bounds: 1867, 144, 124, 155
+	offsets: 15, 25, 155, 195
+	rotate: 90
+kitsune fx/hit FX/hit 1
+	bounds: 687, 667, 276, 276
+	offsets: 1, 1, 278, 278
+kitsune fx/hit FX/hit 2
+	bounds: 2064, 1791, 559, 669
+	offsets: 1, 1, 561, 671
+	rotate: 90
+kitsune fx/hit FX/hit 3
+	bounds: 3086, 2377, 893, 1052
+	offsets: 1, 1, 895, 1054
+kitsune fx/hit FX/hit 4
+	bounds: 1048, 2301, 1010, 1128
+	offsets: 1, 1, 1012, 1130
+kitsune fx/hit FX/hit 5
+	bounds: 6, 2246, 1036, 1183
+	offsets: 1, 2, 1038, 1186
+kitsune fx/hit FX/hit 6
+	bounds: 2064, 2356, 1016, 1073
+	offsets: 2, 2, 1019, 1077
+light fruit fx/hit FX 1
+	bounds: 276, 266, 186, 186
+	offsets: 1, 1, 188, 188
+light fruit fx/hit FX 2
+	bounds: 1640, 910, 441, 441
+	offsets: 1, 1, 443, 443
+light fruit fx/hit FX 3
+	bounds: 1154, 1215, 480, 479
+	offsets: 1, 1, 482, 481
+light fruit fx/hit FX 4
+	bounds: 527, 1735, 505, 505
+	offsets: 1, 1, 507, 507
+light fruit fx/hit FX 5
+	bounds: 6, 1724, 515, 516
+	offsets: 1, 1, 517, 518
+lightning_A
+	bounds: 2818, 45, 107, 94
+	offsets: 3, 2, 113, 98
+lightning_B
+	bounds: 3985, 2388, 95, 97
+	offsets: 3, 3, 101, 103
+lightning_C
+	bounds: 3135, 57, 119, 57
+	offsets: 3, 3, 125, 63
+lightning_D
+	bounds: 2972, 777, 59, 79
+	offsets: 3, 3, 65, 85
+lightning_E
+	bounds: 2753, 70, 61, 56
+	offsets: 3, 3, 67, 62
+	rotate: 90
+lightning_F
+	bounds: 2001, 806, 71, 98
+	offsets: 3, 3, 76, 104
+lightning_G
+	bounds: 6, 55, 113, 73
+	offsets: 3, 2, 119, 77
+lightning_H
+	bounds: 3886, 1770, 44, 40
+	offsets: 3, 3, 50, 46
+lightning_I
+	bounds: 308, 903, 43, 49
+	offsets: 3, 3, 49, 54
+lightning_J
+	bounds: 4054, 830, 30, 34
+	offsets: 3, 3, 36, 40
+little_star
+	bounds: 3384, 862, 42, 43
+number
+	bounds: 3456, 32, 90, 86
+	offsets: 1, 0, 91, 86
+particle_E
+	bounds: 1961, 487, 21, 25
+question mark ball
+	bounds: 1961, 548, 21, 30
+rook_rock/Rock Particles/Pebble 1
+	bounds: 276, 635, 25, 29
+	offsets: 0, 0, 26, 29
+rook_rock/Rock Particles/Pebble 2
+	bounds: 999, 1703, 31, 26
+rook_rock/Rock Particles/Pebble 3
+	bounds: 377, 1286, 14, 15
+	offsets: 0, 1, 14, 16
+rook_rock/Rock Particles/Pebble 4
+	bounds: 2661, 1335, 21, 16
+rook_rock/Rock Particles/Pebble 5
+	bounds: 358, 1284, 13, 17
+rook_rock/Rock Particles/Pebble 6
+	bounds: 2001, 673, 63, 48
+rook_rock/Rock Particles/Pebble 7
+	bounds: 1041, 906, 32, 37
+searching_support/Layer 21
+	bounds: 4038, 1552, 51, 53
+	offsets: 2, 2, 54, 56
+searching_support/cloud_1
+	bounds: 4038, 1371, 49, 50
+	offsets: 1, 1, 51, 52
+searching_support/poof_cloud
+	bounds: 3332, 52, 65, 58
+	offsets: 1, 1, 67, 60
+searching_support/small_poof_cloud
+	bounds: 3991, 25, 56, 55
+	offsets: 1, 2, 58, 59
+shockwave_A
+	bounds: 3667, 778, 27, 28
+	offsets: 1, 0, 29, 28
+shockwave_B
+	bounds: 4054, 952, 35, 38
+shockwave_C
+	bounds: 632, 1702, 39, 27
+	offsets: 0, 0, 40, 27
+shockwave_D
+	bounds: 1961, 584, 22, 31
+small_explosion/explosion_particle_A
+	bounds: 2185, 44, 74, 67
+	offsets: 2, 2, 77, 71
+small_explosion/explosion_particle_B
+	bounds: 2972, 704, 67, 67
+	offsets: 2, 2, 70, 70
+small_explosion/explosion_particle_C
+	bounds: 2317, 528, 64, 64
+	offsets: 2, 1, 68, 66
+small_explosion/flash
+	bounds: 3737, 41, 107, 107
+	offsets: 2, 2, 111, 111
+small_explosion/glow
+	bounds: 1260, 413, 231, 231
+	offsets: 14, 13, 259, 257
+small_explosion/smoke_particle_A
+	bounds: 2972, 862, 67, 70
+	offsets: 1, 1, 69, 73
+small_explosion/smoke_particle_B
+	bounds: 3850, 83, 68, 65
+	offsets: 2, 2, 72, 69
+small_explosion/smoke_particle_C
+	bounds: 3924, 27, 53, 61
+	offsets: 2, 1, 56, 64
+	rotate: 90
+spark2
+	bounds: 3634, 778, 27, 28
+sparkle
+	bounds: 3038, 2071, 34, 58
+	offsets: 1, 0, 35, 58
+sparkle_fx/blue sparkle/sparkle_blue
+	bounds: 3565, 776, 29, 30
+	offsets: 2, 2, 33, 34
+sparkle_fx/green sparkle/sparkle_green
+	bounds: 3530, 776, 29, 30
+	offsets: 2, 2, 33, 34
+sparkle_fx/green sparkle/sparkle_small_green
+	bounds: 2814, 1335, 16, 16
+	offsets: 2, 2, 20, 20
+sparkle_fx/pink sparkle/sparkle_pink
+	bounds: 3495, 776, 29, 30
+	offsets: 2, 2, 33, 34
+sparkle_fx/pink sparkle/sparkle_small_pink
+	bounds: 2792, 1335, 16, 16
+	offsets: 2, 2, 20, 20
+sparkle_fx/yellow sparkle/sparkle_small_yellow
+	bounds: 2770, 1335, 16, 16
+	offsets: 2, 2, 20, 20
+sparkle_fx/yellow sparkle/sparkle_yellow
+	bounds: 3460, 776, 29, 30
+	offsets: 2, 2, 33, 34
+star_blur
+	bounds: 969, 893, 66, 50
+	offsets: 1, 4, 73, 54
+swipe_VFX/swipe_claw
+	bounds: 4038, 1252, 44, 55
+	offsets: 2, 3, 48, 61
+swipe_VFX/swipe_red
+	bounds: 2186, 117, 150, 149
+swipe_VFX/swipe_white1
+	bounds: 2839, 143, 154, 153
+	offsets: 0, 1, 155, 154
+swipe_VFX/swipe_white2
+	bounds: 2028, 116, 154, 152
+	offsets: 0, 1, 154, 153
+swipe_VFX/swipe_white3
+	bounds: 184, 120, 154, 152
+	offsets: 0, 1, 154, 153
+swipe_VFX/swipe_white4
+	bounds: 1339, 124, 154, 152
+	offsets: 0, 1, 154, 153
+	rotate: 90
+white_blue_poof/white_poof_A
+	bounds: 6, 670, 296, 282
+	offsets: 1, 1, 298, 284
+white_blue_poof/white_poof_B
+	bounds: 6, 426, 264, 238
+	offsets: 1, 1, 266, 241
+white_blue_poof/white_poof_C
+	bounds: 949, 407, 220, 239
+	offsets: 1, 1, 222, 241
+	rotate: 90

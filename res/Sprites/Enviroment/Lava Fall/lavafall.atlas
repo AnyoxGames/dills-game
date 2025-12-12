@@ -1,0 +1,12 @@
+lavafall.png
+	size: 1700, 436
+	filter: Linear, Linear
+Waterfall_01lava
+	bounds: 6, 12, 575, 416
+	offsets: 8, 11, 586, 450
+Waterfall_02lava
+	bounds: 1168, 6, 523, 422
+	offsets: 23, 12, 586, 450
+Waterfall_03lava
+	bounds: 587, 16, 575, 412
+	offsets: 6, 14, 586, 450

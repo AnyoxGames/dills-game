@@ -1,0 +1,29 @@
+408b80cc2302731d.png
+	size: 936, 224
+	filter: Linear, Linear
+	scale: 0.5
+images/glow
+	bounds: 17, 9, 206, 207
+	offsets: 13, 13, 232, 233
+	rotate: 90
+images/line_particle
+	bounds: 6, 112, 5, 103
+images/ring
+	bounds: 422, 46, 168, 169
+images/spiky_flash
+	bounds: 230, 6, 186, 209
+	offsets: 3, 3, 192, 215
+images/spiky_piece_A
+	bounds: 596, 100, 115, 90
+	offsets: 3, 3, 121, 96
+	rotate: 90
+images/spiky_piece_B
+	bounds: 857, 132, 73, 83
+	offsets: 3, 3, 79, 89
+images/spiky_piece_C
+	bounds: 692, 112, 103, 79
+	offsets: 3, 3, 109, 85
+	rotate: 90
+images/spiky_piece_D
+	bounds: 777, 132, 74, 83
+	offsets: 3, 3, 79, 89

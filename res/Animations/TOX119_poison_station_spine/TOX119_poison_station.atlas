@@ -1,0 +1,36 @@
+d748add8c42b38cc.png
+	size: 1024, 1024
+	filter: Linear, Linear
+images/green fire/green fire/green_fire_1
+	bounds: 6, 48, 122, 158
+	offsets: 2, 4, 126, 164
+images/green fire/green fire/green_fire_2
+	bounds: 145, 214, 130, 163
+	offsets: 2, 3, 134, 167
+images/green fire/green fire/green_fire_3
+	bounds: 6, 212, 133, 165
+	offsets: 2, 3, 137, 172
+images/green fire/green fire/green_fire_4
+	bounds: 281, 69, 122, 168
+	offsets: 2, 3, 127, 174
+images/green fire/green fire/green_fire_5
+	bounds: 134, 57, 122, 149
+	offsets: 2, 2, 127, 153
+images/green fire/green fire/green_fire_6
+	bounds: 409, 91, 117, 153
+	offsets: 2, 3, 124, 158
+	rotate: 90
+images/green fire/green fire/green_fire_7
+	bounds: 442, 214, 123, 153
+	offsets: 2, 3, 128, 158
+images/green fire/green fire/green_fire_8
+	bounds: 281, 243, 124, 155
+	offsets: 2, 3, 128, 160
+	rotate: 90
+images/poison
+	bounds: 6, 383, 387, 370
+	offsets: 1, 1, 389, 372
+images/poison_destroyed
+	bounds: 399, 373, 380, 354
+	offsets: 1, 1, 382, 356
+	rotate: 90
